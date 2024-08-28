@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ajaysehwal.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gQhb3OQF4au2jBgOGdbmBeYy6HK1UPTG/view?usp=sharing](https://drive.google.com/file/d/1gQhb3OQF4au2jBgOGdbmBeYy6HK1UPTG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FswXBAn7PiPnQQxtV1gp08qWnA0PPa_K/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
