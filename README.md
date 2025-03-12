@@ -6,7 +6,6 @@ I’m a Full Stack Developer from India who enjoys building web solutions.
 </p>
 
 - Playing around with **Web3 and Blockchain** lately  
-- My projects: [ajaysehwal.vercel.app](https://ajaysehwal.vercel.app/)  
 - Up for a chat about **React, Go, TypeScript, DevOps**  
 - Reach me at **ajaysehwal.dev@gmail.com**  
 - My resume: [View here](https://drive.google.com/file/d/1FswXBAn7PiPnQQxtV1gp08qWnA0PPa_K/view?usp=sharing)  
