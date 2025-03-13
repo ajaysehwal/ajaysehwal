@@ -6,7 +6,7 @@ I’m a Full Stack Developer from India who enjoys building web solutions.
 </p>
 
 - Playing around with **Web3 and Blockchain** lately  
-- Up for a chat about **React, Go, TypeScript, DevOps**  
+- Up for a chat about **React, Go, TypeScript, DevOps, Bitcoin**  
 - Reach me at **ajaysehwal.dev@gmail.com**  
 - My resume: [View here](https://drive.google.com/file/d/1FswXBAn7PiPnQQxtV1gp08qWnA0PPa_K/view?usp=sharing)  
 - I like contributing to **open-source** when I get the chance  
